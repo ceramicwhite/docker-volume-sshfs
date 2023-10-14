@@ -1,5 +1,5 @@
-PLUGIN_NAME = vieux/sshfs
-PLUGIN_TAG ?= next
+PLUGIN_NAME = ceramicwhite/sshfs
+PLUGIN_TAG ?= latest
 
 all: clean rootfs create
 
